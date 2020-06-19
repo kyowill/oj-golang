@@ -1,1 +1,10 @@
-package oj_golang
+package main
+
+func getMaxMatrix(matrix [][]int) []int {
+
+}
+
+func main() {
+
+}
+
