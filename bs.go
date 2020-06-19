@@ -1,5 +1,6 @@
 package main
 
+//一定要升序
 func SearchInts(a []int, x int) int {
 	return Search(len(a), func(i int) bool { return a[i] >= x })
 }
